@@ -1,0 +1,11 @@
+﻿After new notes/files are created
+
+git commit -m "<your commit message>"
+
+this commits to local repo.
+
+then 
+
+git push origin master
+
+to send it on up to the remote.
