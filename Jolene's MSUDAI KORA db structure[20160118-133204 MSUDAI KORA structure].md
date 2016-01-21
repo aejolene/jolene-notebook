@@ -5,16 +5,49 @@ I'm creating a digital repository centered around gray literature produced by ar
 I'll be using [KORA](http://kora.matrix.msu.edu/).
 
 ## Schema
-**CRM Reports**
 
-#### Collections
+#### CRM Reports
+**Collections**
 * Project Information
   * Associated site numbers
   * VCRIS Survey ID
   * Project description
   * Year
+  * Authors
+  * Organization
 * Report (Document) Information
   * Pages
   * Format
-  * 
-* Organizations
+  * Survey Extent Digitized
+* Accompanying Materials
+  * Photographic
+  * Field Notes
+  * Conservation
+  * Maps
+
+Verify all fields from current mdb
+
+#### Photographs
+**Collections**
+* Photograph information
+  * Media
+  * Date
+  * Photographer
+  * Date digitized
+* Subject Information
+  * Description
+  * Site Number
+  * Provenience
+  * VCRIS survey event ID
+
+#### Other Files
+**Collections**
+* File Information
+  * Type (map, dataset geospatial, dataset non-spatial, other?)
+  * Date created
+  * Date digitized
+* Subject Information
+  * Description
+  * Site Number
+  * Provenience
+  * VCRIS survey event ID
